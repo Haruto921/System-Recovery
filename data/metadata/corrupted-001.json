@@ -1,4 +1,0 @@
-[
-  {"name": "", "size": 100, "type": "file", "checksum": "invalid"},
-  {"name": "negative_size.txt", "size": -500, "type": "file", "checksum": "bad1234"}
-]
